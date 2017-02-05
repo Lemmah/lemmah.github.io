@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "Lemayian Online",
+  "launch_path": "/index.html",
+  "description": "A personal website for James Lemayian and a little blog about the technology that interests him.",
+  "icons": {
+    "128": "/images/touch/icon-128x128.png"
+  },
+  "developer": {
+    "name": "Lemayian James",
+    "url": "www.lemayian.online"
+  },
+  "installs_allowed_from": [
+    "https://lemmah.github.com/"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "Lemayian Online",
+      "description": "A personal website for James Lemayian and a little blog about the technology that interests him."
+    }
+  }
+}
