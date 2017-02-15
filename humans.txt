@@ -4,7 +4,8 @@
 # TEAM
 
   <name> -- <role> -- <twitter>
-
+  <James Lemayian> -- <Lead Developer> -- <@LemayianNakolah>
+  
 # THANKS
 
   <name>
